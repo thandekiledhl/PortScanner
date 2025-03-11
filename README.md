@@ -40,6 +40,4 @@ PortScanner/
 │── portscanner.java       # Java source code
 │── scan_results.txt       # Scan logs (generated automatically)
 │── README.md              # Documentation
-⚠️ Disclaimer
-Use this tool only for educational purposes and on authorized networks. Unauthorized scanning may violate laws or company policies.
 
